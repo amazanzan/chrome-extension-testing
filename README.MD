@@ -1,4 +1,4 @@
-##How to add the Chrome Extension:
+## How to add the Chrome Extension:
 
 1) Open the Extension Management page by navigating to chrome://extensions.
 2) Enable Developer Mode by clicking the toggle switch next to Developer mode.
